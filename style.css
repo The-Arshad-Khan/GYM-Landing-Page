@@ -1,7 +1,7 @@
 body {
   margin: 0px;
   padding: 0px;
-  background: url("/img/body.jpg") fixed;
+  background: url("./img/body.jpg") fixed;
   background-size: cover;
   font-family: "Baloo Bhaina 2", cursive;
 }
